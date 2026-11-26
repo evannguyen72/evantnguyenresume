@@ -69,7 +69,4 @@ Troubleshooting, Documentation, Excel) to light up those nodes. Any other tag st
 Experience and education live in the `experience`, `experience_bullets` and `education` tables.
 Change them with `python manage.py sql "UPDATE ..."` or with DB Browser for SQLite (https://sqlitebrowser.org).
 
-## Custom domain (optional)
 
-Buy a domain such as `evantnguyenresume.com`, then in **Settings → Pages → Custom domain** enter it and
-follow GitHub's DNS instructions. Tick **Enforce HTTPS** once it's available.
